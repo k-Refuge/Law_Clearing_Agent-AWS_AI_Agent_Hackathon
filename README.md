@@ -1,5 +1,5 @@
 
-# ZK_Agent — AI Agent for administrative information
+# Law Clearing Agent — AI Agent for administrative information
 ### AWS AI Agent Hackathon 2025  
 
  **Delivering accurate, quick and context-aware answers & informations to legal and administrative questions through an AI agent.**
@@ -19,7 +19,7 @@
 
 ## Overview
 
-**ZK_Agent** is an intelligent **LLM-based legal agent** designed for the **AWS AI Agent Hackathon 2025**, that decides to search for information either on official documentation or official websites.  
+**Law Clearing Agent** is an intelligent **LLM-based legal agent** designed for the **AWS AI Agent Hackathon 2025**, that decides to search for information either on official documentation or official websites.  
 It helps users — especially foreigners or citizens unfamiliar with a certain country bureaucracy (France as example in our project) — get **clear, accurate, and context-aware answers** to legal and administrative questions such as:
 
 - Residency permits and visa procedures  
@@ -91,8 +91,8 @@ We realized how difficult it is to find **reliable information tailored to one�
 ## Get Started 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/k-Refuge/ZK_Agent-AWS_AI_Agent_Hackathon.git
-cd ZK_Agent-AWS_AI_Agent_Hackathon
+git clone https://github.com/k-Refuge/Law Clearing Agent-AWS_AI_Agent_Hackathon.git
+cd Law Clearing Agent-AWS_AI_Agent_Hackathon
 ```
 ## 2.  Environment Setup
 
