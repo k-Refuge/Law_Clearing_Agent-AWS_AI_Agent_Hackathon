@@ -94,12 +94,12 @@ We realized how difficult it is to find **reliable information tailored to oneâ€
 git clone https://github.com/k-Refuge/Law Clearing Agent-AWS_AI_Agent_Hackathon.git
 cd Law Clearing Agent-AWS_AI_Agent_Hackathon
 ```
-## 2.  Environment Setup
+### 2.  Environment Setup
 
 This project is designed to run in Amazon SageMaker Studio.
 You can also run it locally if your environment has valid AWS credentials (with permissions to access S3 and Bedrock).
 
-## 3. Data Configuration
+### 3. Data Configuration
 
 The project uses data stored in an S3 bucket specific to our AWS account.
 Before running the notebooks or scripts, update any S3 paths in the code to point to your own S3 bucket.
@@ -114,7 +114,7 @@ You can run **inference.py** or **reference.py** directly without regenerating t
 just make sure to upload the pre-built FAISS vector store (index.faiss and index.pkl) to your S3 bucket,
 and update the corresponding S3 path variables in the scripts.
 
-## 5. Set your Serper API key 
+### 5. Set your Serper API key 
 The agent integrates a web search feature using the Serper API.
 To enable it, open the file inference.py, locate the function search_serper, and replace the placeholder key with your own:
 ```python
